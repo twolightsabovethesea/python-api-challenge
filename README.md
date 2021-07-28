@@ -1,1 +1,3 @@
 # python-api-challenge
+
+The project was done for the University of Pennsylvania Data Analytics Bootcamp. It was completed in Jupyter using Python, Pandas, and Matplotlib. Data was collected using two different APIs. In the weatherpy file, weather data was cleaned, analyzed, and visualized to show trends in weather by latitude. A brief written summary of three observations made about the data can be viewed at the top of the weatherpy.apynb file. In the vacationpy portion, weather data was filtered to determine potential vacation locations based on weather preferences and hotels for each resulting location were placed as pins on a heatmap showing humidity.
